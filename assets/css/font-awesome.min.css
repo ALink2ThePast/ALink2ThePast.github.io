@@ -7,13 +7,15 @@
  	position: relative;
  }
 
- .fa-custom i {
+.devicon-javascript-plain,
+.devicon-react-original,
+.devicon-jquery-plain {
  	color: #fff;
  	position: absolute;
- 	left: 11px;
+ 	left: 10px;
  	top: 10px;
  	font-size: 20px;
- 	z-index: 9999;
+ 	z-index: 999;
  }
 
  .fa-custom:before {
